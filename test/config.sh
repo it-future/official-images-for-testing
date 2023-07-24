@@ -302,7 +302,17 @@ globalExcludeTests+=(
 	[openjdk:alpine_java-uimanager-font]=1
 	[openjdk:slim_java-uimanager-font]=1
 	[openjdk:nanoserver_java-uimanager-font]=1
-
+	
+	# skip distroless tests
+	[azul-zulu-openjdk:17_distroless-utc]=1
+ 	[azul-zulu-openjdk:17_distroless-no-hard-coded-passwords]=1
+  	[azul-zulu-openjdk:17_distroless-java-hello-world]=1
+    	[azul-zulu-openjdk:17_distroless-java-uimanager-font]=1
+     	[azul-zulu-openjdk:17_distroless-java-ca-certificates]=1
+      	[azul-zulu-openjdk:8-centos-java-uimanager-font]=1
+      	[azul-zulu-openjdk:11-centos-java-uimanager-font]=1
+       	[azul-zulu-openjdk:17-centos-java-uimanager-font]=1
+	
 	# the Swift slim images are not expected to be able to run the swift-hello-world test because it involves compiling Swift code. The slim images are for running an already built binary.
 	# https://github.com/docker-library/official-images/pull/6302#issuecomment-512181863
 	[swift:slim_swift-hello-world]=1

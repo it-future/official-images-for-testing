@@ -96,4 +96,3 @@ Tags: 17-distroless, 17.0.8-distroless, 17.0.8-17.44.15-distroless
 Architectures: amd64
 GitCommit: 61563c4a5a85791e6c6d3ed16a1a947e0f8879fd
 Directory: distroless/17-latest
-Constraints: distroless

@@ -304,11 +304,11 @@ globalExcludeTests+=(
 	[openjdk:nanoserver_java-uimanager-font]=1
 	
 	# skip distroless tests
-	[azul-zulu-openjdk:17-distroless_utc]=1
- 	[azul-zulu-openjdk:17-distroless_no-hard-coded-passwords]=1
-  	[azul-zulu-openjdk:17-distroless_java-hello-world]=1
-    	[azul-zulu-openjdk:17-distroless_java-uimanager-font]=1
-     	[azul-zulu-openjdk:17-distroless_java-ca-certificates]=1
+	[azul-zulu-openjdk:distroless_utc]=1
+ 	[azul-zulu-openjdk:distroless_no-hard-coded-passwords]=1
+  	[azul-zulu-openjdk:distroless_java-hello-world]=1
+    	[azul-zulu-openjdk:distroless_java-uimanager-font]=1
+     	[azul-zulu-openjdk:distroless_java-ca-certificates]=1
       	[azul-zulu-openjdk:8-centos_java-uimanager-font]=1
       	[azul-zulu-openjdk:11-centos_java-uimanager-font]=1
        	[azul-zulu-openjdk:17-centos_java-uimanager-font]=1

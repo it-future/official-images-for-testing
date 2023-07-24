@@ -1,5 +1,5 @@
 Maintainers: Eduard Makedonskii <emakedonskii@azul.com> (@it-mak), Anton Kozlov <akozlov@azul.com> (@AntonKozlov), Sergey Grinev <sergey.grinev@azul.com> (@sgrinev)
-GitRepo: https://github.com/zulu-openjdk/zulu-openjdk
+GitRepo: https://github.com/it-future/zulu-openjdk
 
 
 #-----ubuntu-----
@@ -94,5 +94,5 @@ Directory: centos/20-latest
 
 Tags: 17-distroless, 17.0.8-distroless, 17.0.8-17.44.15-distroless
 Architectures: amd64
-GitCommit: 63034147c1ec9aab2f3b6aeced311c500f4586d9
+GitCommit: 61563c4a5a85791e6c6d3ed16a1a947e0f8879fd
 Directory: distroless/17-latest

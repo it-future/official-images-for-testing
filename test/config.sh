@@ -309,7 +309,6 @@ globalExcludeTests+=(
   	[azul-zulu-openjdk:distroless_java-hello-world]=1
     	[azul-zulu-openjdk:distroless_java-uimanager-font]=1
      	[azul-zulu-openjdk:distroless_java-ca-certificates]=1
-      	[azul-zulu-openjdk:centos_java-uimanager-font]=1
        
 	
 	# the Swift slim images are not expected to be able to run the swift-hello-world test because it involves compiling Swift code. The slim images are for running an already built binary.

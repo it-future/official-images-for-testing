@@ -1,5 +1,5 @@
 Maintainers: Eduard Makedonskii <emakedonskii@azul.com> (@it-mak), Anton Kozlov <akozlov@azul.com> (@AntonKozlov), Sergey Grinev <sergey.grinev@azul.com> (@sgrinev)
-GitRepo: https://github.com/it-future/zulu-openjdk
+GitRepo: https://github.com/zulu-openjdk/zulu-openjdk
 
 
 #-----ubuntu-----
@@ -72,27 +72,27 @@ Directory: debian/20-latest
 
 Tags: 8-centos, 8u382-centos, 8u382-8.72.0.17-centos
 Architectures: amd64, arm64v8
-GitCommit: 3eafc83
+GitCommit: 4ed1d677a1c7e492aab0665be58ccb1b186b9be6
 Directory: centos/8-latest
 
 Tags: 11-centos, 11.0.20-centos, 11.0.20-11.66.15-centos
 Architectures: amd64, arm64v8
-GitCommit: 3eafc83
+GitCommit: 4ed1d677a1c7e492aab0665be58ccb1b186b9be6
 Directory: centos/11-latest
 
 Tags: 17-centos, 17.0.8-centos, 17.0.8-17.44.15-centos
 Architectures: amd64, arm64v8
-GitCommit: 3eafc83
+GitCommit: 4ed1d677a1c7e492aab0665be58ccb1b186b9be6
 Directory: centos/17-latest
 
 Tags: 20-centos, 20.0.2-centos, 20.0.2-20.32.11-centos
 Architectures: amd64, arm64v8
-GitCommit: 3eafc83
+GitCommit: 4ed1d677a1c7e492aab0665be58ccb1b186b9be6
 Directory: centos/20-latest
 
 #-----distroless----
 
 Tags: 17-distroless, 17.0.8-distroless, 17.0.8-17.44.15-distroless
 Architectures: amd64
-GitCommit: 61563c4a5a85791e6c6d3ed16a1a947e0f8879fd
+GitCommit: 4ed1d677a1c7e492aab0665be58ccb1b186b9be6
 Directory: distroless/17-latest

@@ -43,7 +43,7 @@ Directory: alpine/17-latest
 
 Tags: 20-alpine, 20.0.2-alpine, 20.0.2-20.32.11-alpine
 Architectures: amd64, arm64v8
-GitCommit: 63034147c1ec9aab2f3b6aeced311c500f4586d9
+GitCommit: d443b51
 Directory: alpine/20-latest
 
 #-----debian-----
@@ -72,27 +72,27 @@ Directory: debian/20-latest
 
 Tags: 8-centos, 8u382-centos, 8u382-8.72.0.17-centos
 Architectures: amd64, arm64v8
-GitCommit: 4ed1d677a1c7e492aab0665be58ccb1b186b9be6
+GitCommit: d443b514fb1bca9965c3cc7c3db6cdb71bc5b761
 Directory: centos/8-latest
 
 Tags: 11-centos, 11.0.20-centos, 11.0.20-11.66.15-centos
 Architectures: amd64, arm64v8
-GitCommit: 4ed1d677a1c7e492aab0665be58ccb1b186b9be6
+GitCommit: d443b514fb1bca9965c3cc7c3db6cdb71bc5b761
 Directory: centos/11-latest
 
 Tags: 17-centos, 17.0.8-centos, 17.0.8-17.44.15-centos
 Architectures: amd64, arm64v8
-GitCommit: 4ed1d677a1c7e492aab0665be58ccb1b186b9be6
+GitCommit: d443b514fb1bca9965c3cc7c3db6cdb71bc5b761
 Directory: centos/17-latest
 
 Tags: 20-centos, 20.0.2-centos, 20.0.2-20.32.11-centos
 Architectures: amd64, arm64v8
-GitCommit: 4ed1d677a1c7e492aab0665be58ccb1b186b9be6
+GitCommit: d443b514fb1bca9965c3cc7c3db6cdb71bc5b761
 Directory: centos/20-latest
 
 #-----distroless----
 
 Tags: 17-distroless, 17.0.8-distroless, 17.0.8-17.44.15-distroless
 Architectures: amd64
-GitCommit: 4ed1d677a1c7e492aab0665be58ccb1b186b9be6
+GitCommit: d443b514fb1bca9965c3cc7c3db6cdb71bc5b761
 Directory: distroless/17-latest
